@@ -2,6 +2,7 @@
 # When God debugs, he doesn't use breakpoints, just divine intervention.
 
 import cv2
+from cv2 import cuda
 import pyautogui
 from mss import mss
 from cvzone.FPS import FPS
